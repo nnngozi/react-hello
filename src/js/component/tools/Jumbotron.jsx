@@ -4,7 +4,7 @@ import React from "react";
 const Jumbotron = () => {
 	return (
 		<div>
-			<div class="jumbotron">
+			<div class="jumbotron bg-light m-2">
 				<h1 class="display-4">A Warm Welcome!</h1>
 				<p class="lead">
 					This is a simple hero unit, a simple jumbotron-style
@@ -18,7 +18,7 @@ const Jumbotron = () => {
 				</p>
 				<p class="lead">
 					<a class="btn btn-primary btn-lg" href="#" role="button">
-						Learn more
+						Call to action!
 					</a>
 				</p>
 			</div>
